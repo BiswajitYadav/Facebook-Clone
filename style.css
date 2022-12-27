@@ -1,5 +1,8 @@
 @tailwind base;
 @tailwind components;
+*{
+  scroll-behavior: smooth;
+}
 @tailwind utilities;
 
 .shadow{
